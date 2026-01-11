@@ -196,5 +196,14 @@ BNF ტიპიმთავარი ხაფანგიგადაწყვ
 
 დერივაციაში რამდენიმე ნაბიჯის გაერთიანება:
 
-❌ ⇒ int count = 0; (ერთბაშად)
+❌ ⇒ int count = 0; (ერთბაშად)<img width="863" height="1144" alt="Screenshot 2026-01-12 013430" src="https://github.com/user-attachments/assets/da93a21e-6e1d-453b-9654-dd641fc9b93a" />
+<img width="797" height="460" alt="Screenshot 2026-01-12 013410" src="https://github.com/user-attachments/assets/00523a95-0d1d-4f86-9566-92deff68be75" />
+<img width="853" height="868" alt="Screenshot 2026-01-12 013417" src="https://github.com/user-attachments/assets/5da627fb-86f5-44d7-a709-89152d54717c" />
+<img width="914" height="1117" alt="Screenshot 2026-01-12 013424" src="https://github.com/user-attachments/assets/7639c373-d11c-4d16-a9d6-18dd62df0fa4" />
+
 ✅ თითო არატერმინალი თითო ნაბიჯზე
+
+
+
+<img width="863" height="1144" alt="Screenshot 2026-01-12 013430" src="https://github.com/user-attachments/assets/edbb196d-edef-488c-879d-2bea3c999b81" />
+<img width="863" height="1144" alt="image" src="https://github.com/user-attachments/assets/8c9ecc0b-3189-47e8-89e5-1de846f72939" />
